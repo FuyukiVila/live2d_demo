@@ -49,8 +49,8 @@
         { "selector": ".fui-cross", "text": ["你不喜欢我了吗..."] },
 
         { "selector": "#changskin", "text": ["想要换个样子吗？"]},
-        { "selector": "#control-btn-serif", "text": ["要换成锐利的serif字体吗？"]},
-        { "selector": "#control-btn-sans-serif", "text": ["要换成圆润的sans字体吗？"]},
+        { "selector": ".control-btn-serif", "text": ["要换成锐利的serif字体吗？"]},
+        { "selector": ".control-btn-sans-serif", "text": ["要换成圆润的sans字体吗？"]},
         { "selector": "#white-bg", "text": ["要变亮了，注意了哦~"]},
         { "selector": "#dark-bg", "text": ["深夜时要爱护眼睛呀"] },
         { "selector": "#moblieGoTop", "text": ["biu！直达顶部"] },
