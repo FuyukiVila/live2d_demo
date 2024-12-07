@@ -56,6 +56,9 @@
 
         { "selector": ".site-branding", "text": ["咕噜噜，转起来咯~"]},
         { "selector": ".header-tou", "text": ["咕噜噜，转起来咯~"]},
+        { "selector": "#home", "text": ["要回到首页吗？"]},
+        { "selector": "#timeline", "text": ["时间过去的真快啊"]},
+        { "selector": "#archive", "text": ["这里都有些什么呢？"]},
         { "selector": ".searchbox", "text": ["要找些什么呢？"] },
         { "selector": ".my-face", "text": ["网站的版权信息，还会动呢"]},
 
