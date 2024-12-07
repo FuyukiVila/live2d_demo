@@ -39,6 +39,7 @@
         }
     },
     "mouseover": [
+        { "selector": ".container a[href^='http']", "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"] },
         { "selector": ".fui-home", "text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦"] },
         { "selector": ".fui-chat", "text": ["一言一语，一颦一笑。一字一句，一颗赛艇。"] },
         { "selector": ".fui-eye", "text": ["嗯··· 要切换 看板娘 吗？"] },
@@ -86,9 +87,7 @@
         { "selector": ".aplayer-icon-forward", "text": ["要听下一首曲子吗？"]},
         { "selector":".aplayer-icon-back", "text": ["要听上一首曲子吗？"]},
 
-        { "selector": ".waifu #live2d", "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！", "你想干什么呀？"] },
-
-        { "selector": "a[href^='http']", "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"] }
+        { "selector": ".waifu #live2d", "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！", "你想干什么呀？"] }
     ],
     "click": [
         {
