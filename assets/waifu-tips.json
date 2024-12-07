@@ -55,9 +55,9 @@
         { "selector": "#dark-bg", "text": ["深夜时要爱护眼睛呀"] },
         { "selector": "#moblieGoTop", "text": ["biu！直达顶部"] },
 
-        { "selector": "#site-branding", "text": ["咕噜噜，转起来咯~"]},
-        { "selector": "#searchbox", "text": ["要找些什么呢？"] },
-        { "selector": "#my-face", "text": ["网站的版权信息，还会动呢"]},
+        { "selector": ".site-branding", "text": ["咕噜噜，转起来咯~"]},
+        { "selector": ".searchbox", "text": ["要找些什么呢？"] },
+        { "selector": ".my-face", "text": ["网站的版权信息，还会动呢"]},
 
         { "selector": "#comment_go", "text": ["想要去评论些什么吗？"] },
         { "selector": "#qrcode", "text": ["手机扫一下就能继续看，很方便呢"] },
